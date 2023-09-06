@@ -1,0 +1,4 @@
+If an LED is on 50% of the time at high frequency:
+-The frequency for the led being on is the total frequency divided by 2 which would be 200kHz
+-The period for it being on is half of the total period which would be 5 microseconds
+-A naked eye cannot detect any change since it happens too fast for us so it just looks like it is constantly on
